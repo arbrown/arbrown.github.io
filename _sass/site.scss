@@ -39,6 +39,18 @@
 	float: right;
 	margin-top: 0;
 }
+.image-pull-left {
+	float: left;
+	margin-top: 0;
+}
+
+.small-image {
+	max-width: 33%;
+}
+
+.pad-right{
+	padding-right: 2em;
+}
 
 /* Clearfix */
 .clearfix {
