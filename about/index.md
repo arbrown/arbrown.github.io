@@ -10,7 +10,7 @@ I am currently studying business at [The University of Utah](http://mba.business
 ## Interests:
 My work and academic careers have involved a lot of sitting at a computer (which I actually enjoy more than most) so I try to find ways to spend leisure time away from a desk.
 
-![Three Gorges Dam - China](/images/arb-3gorges.jpg){: .image-pull-right .small-image}
+![Three Gorges Dam - China](/images/arb-3gorges.JPG){: .image-pull-right .small-image}
 
 * Travel - I know, I know... everyone and their dog enjoys travel.  Well, I do too! I prefer traveling without a lot of plans and just exploring and letting my trip develop naturally.  Last summer I bought a one-way ticket to China and ended up staying in hostels, riding trains, going on a river cruise and of course hiking the great wall.  I'm always planning my next trip and looking for excuses to get out of town whenever I can.
 
@@ -20,6 +20,6 @@ My work and academic careers have involved a lot of sitting at a computer (which
 
 * Board Games - I'm a big fan of strategic board and card games.  I love getting together with old friends and meeting new people by playing games around a table.  Some of my favorites include [Dominion](http://amzn.to/1R8tcfw), [Small World](http://amzn.to/1Upregh), [Firefly: The Game](http://amzn.to/1OBBHxT), and [Codenames](http://amzn.to/1QLNrp6). I really appreciate the hard work that went in to designing these and other great games, and love trying to come up with creative game designs myself.
 
-![Solo Flight](/images/arb-katana.jpg){: .image-pull-right .small-image}
+![Solo Flight](/images/arb-katana.JPG){: .image-pull-right .small-image}
 
 * Flying - I am learning to fly and currently building up hours toward getting a private pilot license.  You may want to [listen to your local air traffic control](http://www.liveatc.net/) to make sure I'm not flying in your area...
