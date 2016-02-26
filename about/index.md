@@ -12,7 +12,7 @@ My work and academic careers have involved a lot of sitting at a computer (which
 
 ![Three Gorges Dam - China](/images/arb-3gorges.jpg){: .image-pull-right .small-image}
 
-* Travel - I know, I know... everyone and their dog enjoys travel.  So do I. I prefer traveling without a lot of plans and just exploring and letting my trip develop naturally.  Last summer I bought a one-way ticket to China and ended up staying in hostels, riding trains, going on a river cruise and of course hiking the great wall.  I'm always planning my next trip and looking for excuses to get out of town whenever I can.
+* Travel - I know, I know... everyone and their dog enjoys travel.  Well, I do too! I prefer traveling without a lot of plans and just exploring and letting my trip develop naturally.  Last summer I bought a one-way ticket to China and ended up staying in hostels, riding trains, going on a river cruise and of course hiking the great wall.  I'm always planning my next trip and looking for excuses to get out of town whenever I can.
 
 * Ultimate Frisbee - I don't play as much as I used to, but I love playing organized, competitive Ultimate Frisbee.  Every fall (and most summers) for the last six years I have participated in the [Orem Ultimate](http://oremultimate.com/#/) league.
 
