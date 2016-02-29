@@ -4,7 +4,6 @@ title:            Drew Brown
 locale:           en_US
 url:              http://blog.drewbrown.me
 
-
 # Jekyll configuration
 
 permalink:   /:categories/:title/
