@@ -8,6 +8,7 @@ tags: [business, programming, javascript]
 image:
   feature:
 date: 2016-02-29T15:51:22-07:00
+comments: true
 ---
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script src="/assets/js/calendar/fixedCalendar.js"></script>
