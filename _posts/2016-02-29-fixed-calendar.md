@@ -3,7 +3,7 @@ layout: post
 title: Fixed Calendar
 modified:
 categories:
-excerpt:
+excerpt: Happy Leap Day!  I have a cousin who was born on February 29th.  I guess today must be her 9th birthday, which might come as a surprise to her kids...
 tags: [business, programming, javascript]
 image:
   feature:
