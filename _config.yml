@@ -2,7 +2,7 @@
 
 title:            Drew Brown
 locale:           en_US
-url:              http://blog.drewbrown.me
+url:              #http://blog.drewbrown.me
 
 # Jekyll configuration
 
@@ -15,7 +15,7 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-gist
-  
+
 
 kramdown:
   auto_ids: true
